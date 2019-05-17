@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="20" height="16" tilewidth="48" tileheight="48" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="D:/KANE/PECO/background/grass.tsx"/>
+ <tileset firstgid="2" source="D:/KANE/PECO/background/grass2.tsx"/>
+ <tileset firstgid="3" source="D:/KANE/PECO/background/grass3.tsx"/>
+ <tileset firstgid="4" source="D:/KANE/PECO/background/grass4.tsx"/>
+ <tileset firstgid="5" source="D:/KANE/PECO/background/grass5.tsx"/>
+ <tileset firstgid="6" source="D:/KANE/PECO/background/grass6.tsx"/>
+ <tileset firstgid="7" source="D:/KANE/PECO/background/road.tsx"/>
+ <tileset firstgid="8" source="D:/KANE/PECO/background/road2.tsx"/>
+ <tileset firstgid="9" source="D:/KANE/PECO/background/road3.tsx"/>
+ <tileset firstgid="10" source="D:/KANE/PECO/background/road4.tsx"/>
+ <tileset firstgid="11" source="D:/KANE/PECO/background/road5.tsx"/>
+ <tileset firstgid="12" source="D:/KANE/PECO/background/road6.tsx"/>
+ <tileset firstgid="13" source="D:/KANE/PECO/background/road7.tsx"/>
+ <tileset firstgid="14" source="D:/KANE/PECO/background/road8.tsx"/>
+ <tileset firstgid="15" source="D:/KANE/PECO/background/road9.tsx"/>
+ <tileset firstgid="16" source="D:/KANE/PECO/background/grass7.tsx"/>
+ <tileset firstgid="17" source="D:/KANE/PECO/background/grass8.tsx"/>
+ <tileset firstgid="18" source="D:/KANE/PECO/background/grass9.tsx"/>
+ <tileset firstgid="19" source="D:/KANE/PECO/background/grass10.tsx"/>
+ <tileset firstgid="20" source="D:/KANE/PECO/background/grass11.tsx"/>
+ <tileset firstgid="21" source="D:/KANE/PECO/background/grass12.tsx"/>
+ <tileset firstgid="22" source="D:/KANE/PECO/background/grass13.tsx"/>
+ <tileset firstgid="23" source="D:/KANE/PECO/background/grass15.tsx"/>
+ <tileset firstgid="24" source="D:/KANE/PECO/background/grass14.tsx"/>
+ <tileset firstgid="25" source="D:/KANE/PECO/background/grass16.tsx"/>
+ <tileset firstgid="26" source="D:/KANE/PECO/background/road1.tsx"/>
+ <tileset firstgid="27" source="D:/KANE/PECO/background/road10.tsx"/>
+ <tileset firstgid="28" source="D:/KANE/PECO/background/road11.tsx"/>
+ <tileset firstgid="29" source="D:/KANE/PECO/background/road12.tsx"/>
+ <tileset firstgid="30" source="D:/KANE/PECO/background/road13.tsx"/>
+ <tileset firstgid="31" source="D:/KANE/PECO/background/road14.tsx"/>
+ <tileset firstgid="32" source="D:/KANE/PECO/background/road15.tsx"/>
+ <tileset firstgid="33" source="D:/KANE/PECO/background/road16.tsx"/>
+ <tileset firstgid="34" source="D:/KANE/PECO/background/road17.tsx"/>
+ <tileset firstgid="35" source="D:/KANE/PECO/background/road18.tsx"/>
+ <tileset firstgid="36" source="D:/KANE/PECO/background/road19.tsx"/>
+ <tileset firstgid="37" source="D:/KANE/PECO/background/road20.tsx"/>
+ <tileset firstgid="38" source="D:/KANE/PECO/background/road21.tsx"/>
+ <tileset firstgid="39" source="D:/KANE/PECO/background/road22.tsx"/>
+ <tileset firstgid="40" source="D:/KANE/PECO/background/road23.tsx"/>
+ <tileset firstgid="41" source="D:/KANE/PECO/background/road24.tsx"/>
+ <tileset firstgid="42" source="D:/KANE/PECO/background/road25.tsx"/>
+ <tileset firstgid="43" source="D:/KANE/PECO/background/road26.tsx"/>
+ <tileset firstgid="44" source="D:/KANE/PECO/background/road27.tsx"/>
+ <layer id="1" name="块层 1" width="20" height="16">
+  <data encoding="csv">
+17,25,25,24,23,17,25,2,26,11,11,15,1,25,20,17,18,1,25,17,
+25,18,3,23,2,20,23,23,9,11,11,27,17,2,25,23,23,18,4,23,
+1,16,23,1,18,3,16,25,8,11,11,27,18,25,20,17,20,3,25,1,
+23,23,17,25,20,25,18,20,9,10,11,14,25,20,25,3,4,23,18,25,
+4,1,25,17,16,23,23,3,26,11,11,27,18,23,17,23,20,2,25,17,
+23,23,20,23,2,25,16,23,9,11,11,15,23,23,25,23,25,17,2,17,
+16,23,4,2,3,4,25,18,26,11,11,14,1,18,17,23,23,23,4,3,
+20,25,18,20,23,25,18,16,9,11,12,15,25,25,23,21,3,18,25,1,
+18,4,20,3,23,2,24,17,26,11,11,13,3,4,22,17,20,25,17,4,
+42,40,41,42,41,42,41,40,28,11,11,29,41,42,32,33,33,44,35,25,
+11,10,12,11,11,11,11,11,11,12,11,11,11,11,11,10,11,11,37,4,
+11,11,11,11,10,11,11,11,11,11,10,11,11,12,11,11,10,11,37,20,
+38,39,38,39,39,38,38,39,31,11,12,30,38,39,38,38,39,43,36,1,
+4,16,20,24,2,17,20,3,26,11,11,27,4,3,17,25,16,20,2,4,
+20,2,20,3,25,24,23,16,8,11,11,15,20,18,20,2,20,18,20,3,
+4,23,18,16,17,20,2,4,26,12,11,27,3,23,16,18,20,2,25,20
+</data>
+ </layer>
+</map>
