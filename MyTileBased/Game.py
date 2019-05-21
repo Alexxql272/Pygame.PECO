@@ -7,7 +7,7 @@ from Cam import *
 from Map import *
 
 class Game:
-    def __init__(self):
+    def __init__(self, Title):
         pg.init()
         self.screen = pg.display.set_mode((WIDTH, HEIGHT))
         pg.display.set_caption(TITLE)
